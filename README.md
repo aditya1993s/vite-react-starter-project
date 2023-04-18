@@ -9,3 +9,7 @@ This starter project has below dependencies
 4. Routing implemented in App.jsx
 5. Axios for API
 6. Hooks for Private route, Axios client
+7. Ag-Grid for Tables
+8. React alerts
+9. Styled components
+10. Tailwind CSS
